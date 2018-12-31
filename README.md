@@ -1,5 +1,11 @@
 # learn
 
-添加一个新的远程仓库：
+远程仓库别名配置：
 
-要添加一个新的远程仓库,可以指定一个简单的名字[别名],以便将来引用,运行 git remote add [shortname] [url].
+添加别名：git remote add [别名] [url].
+
+查询别名：git remote 
+
+删除别名 ：git remote rm origion
+
+给别名重命名：git remote rename origion origion2
