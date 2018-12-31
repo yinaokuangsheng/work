@@ -9,3 +9,7 @@
 删除别名 ：git remote rm origion
 
 给别名重命名：git remote rename origion origion2
+
+以后如果要把本地版本库的文件推送到远程仓库就可以使用： git push origin master
+
+
