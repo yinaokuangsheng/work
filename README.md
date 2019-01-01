@@ -12,4 +12,4 @@
 
 以后如果要把本地版本库的文件推送到远程仓库就可以使用： git push origin master
 
-下载文件：					       git push origin master
+下载文件：		git clone https://github.com/yinaokuangsheng/xxxxxx
